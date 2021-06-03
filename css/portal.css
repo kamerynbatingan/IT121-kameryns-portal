@@ -4,7 +4,7 @@
 
 html {
     background-color: plum;
-    font-family: times new roman;
+    font-family: "Karla", times new roman, serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -16,7 +16,7 @@ html {
 
 h1 {
     font-weight: bold;
-    font-family:cursive;
+    font-family: "Karla", Cursive, serif;
     margin: auto;
     background: gold;
     color: white;
@@ -31,7 +31,7 @@ main.wrapper {
 
 p {
     margin: 1em;
-    font-family: times new roman, arial;
+     font-family: "Karla", times new roman, serif;
 }
 
 h2,h3 {
