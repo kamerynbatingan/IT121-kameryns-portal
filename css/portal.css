@@ -4,7 +4,7 @@
 
 html {
     background-color: plum;
-    font-family: "Karla", times new roman, serif;
+    font-family: "Karla", arial;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -15,23 +15,23 @@ html {
 }
 
 h1 {
-    font-weight: bold;
+    font-weight: bolder;
     font-family: "Karla", Cursive, serif;
     margin: auto;
-    background: gold;
-    color: white;
+    background: snow;
+    color: gold;
     text-align:center;
     line-height: 2.5em;
 }
 
 main.wrapper {
     background-color: snow;
-   
+    margin-bottom:3000px
 }
 
 p {
     margin: 1em;
-     font-family: "Karla", times new roman, serif;
+     font-family: "Karla", arial;
 }
 
 h2,h3 {
