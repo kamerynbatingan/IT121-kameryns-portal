@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: rgb(208,240,192);;
+    background-color: #C9E3DB;;
     font-family: "Karla", arial;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -19,7 +19,7 @@ h1 {
     font-family: "Karla", Cursive, serif;
     margin: auto;
     background: snow;
-    color: gold;
+    color: #ECDEC3;
     text-align:center;
     line-height: 2.5em;
 }
@@ -47,7 +47,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: gold;
+    background-color: #ECDEC3;
     text-decoration: none;
 }
 
